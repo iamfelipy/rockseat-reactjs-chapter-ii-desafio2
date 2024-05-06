@@ -102,3 +102,7 @@ Acesse <http://localhost:3000> para ver o resultado.
 # :closed_book: Licença
 
 Este projeto está sob a licença [MIT](./LICENSE).
+
+# Links
+
+(Rocketseat Desafio)[https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c]
